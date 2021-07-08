@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here.](http://abraham-newbie.github.io/files/Resume Abraham_Raju.pdf)
+Download my CV [here.](http://abraham-newbie.github.io/files/Resume.pdf)
