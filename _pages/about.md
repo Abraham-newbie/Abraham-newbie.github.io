@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a student of the master's in Economics program at the University of Bonn. I am keenly interested in empirical economics and causal inferences with the aid of reliable econometric and
+Hi there! I'm a student of the master's in Economics program at the University of Bonn. I am keenly interested in empirical economics and causal inferences with the aid of reliable econometric and
 fun computational methods. I have previously interned at the Max Planck Institute in Bonn and in a reputed Economics consulting firm in Berlin.
 
 
@@ -21,5 +21,5 @@ fun computational methods. I have previously interned at the Max Planck Institut
 * New updates in competition enforcement.
 
 
-**Always up for a chat about Econ and more!**
-Email: abrahamrajuloyola@gmail.com
+
+**For Enquiries or a chat**: abrahamrajuloyola@gmail.com
