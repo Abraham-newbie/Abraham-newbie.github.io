@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hi there! I'm a student of the master's in Economics program at the University of Bonn. I am keenly interested in empirical economics and causal inferences with the aid of reliable econometric and
-fun computational methods. I have previously interned at the Max Planck Institute in Bonn and in a reputed Economics consulting firm in Berlin.
+fun computational methods. I have previously interned at the Max Planck Institute in Bonn and at a fast-paced economics consulting firm in Berlin.
 
-Download CV [link](http://abraham-newbie.github.io/files/Resume.pdf)
+Download CV as PDF [link](http://abraham-newbie.github.io/files/Resume.pdf)
 
 
 **What piques my interest?**
@@ -23,7 +23,7 @@ Download CV [link](http://abraham-newbie.github.io/files/Resume.pdf)
 * New updates in competition enforcement.
 
 
-**Projects** *
+**Projects**
 
 * [Working Project on the Replication of Berrera et. al.](https://github.com/OpenSourceEconomics/ose-data-science-course-project-Abraham-newbie/blob/master/project.ipynb)
 

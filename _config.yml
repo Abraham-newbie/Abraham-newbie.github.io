@@ -85,36 +85,18 @@ author:
   bio              : "Student of Economics"
   location         : "Bonn, Germany"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Abraham-newbie"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : ""
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/abraham-raju-2514a3145/"
 
 
 # Reading Files
