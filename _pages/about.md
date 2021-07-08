@@ -22,4 +22,4 @@ fun computational methods. I have previously interned at the Max Planck Institut
 
 
 
-**For Enquiries or a chat**: abrahamrajuloyola@gmail.com
+**Email**: abrahamrajuloyola@gmail.com
