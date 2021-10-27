@@ -25,7 +25,7 @@ Download CV as PDF [link](http://abraham-newbie.github.io/files/Resume.pdf)
 
 **Projects**
 
-* [Working Project on the Replication of Berrera et. al.](https://github.com/OpenSourceEconomics/ose-data-science-course-project-Abraham-newbie/blob/master/project.ipynb)
+* [Working Project on the Replication of Berrera et. al.](https://github.com/Abraham-newbie/Replication/blob/main/project.ipynb)
 
 * [Evaluation of Impact of Life Shocks on Life Satisfaction and similar Outcomes (an extension of Kettlewell et. al.)](https://github.com/Abraham-newbie/Life-Events)
 
